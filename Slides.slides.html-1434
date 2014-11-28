@@ -1726,18 +1726,18 @@ div.output_prompt {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="group-5-overfishing-in-the-pacific-ocean-">Group 5: &quot;Overfishing in the Pacific Ocean&quot;</h2>
-<p>Authors:   </p>
+<p>Authors:</p>
 <ul>
 <li>Shin Hyesung   </li>
 <li>Yoo Youngjae  </li>
-<li>Jung Daehyun   </li>
+<li>Jung Daehyun</li>
 </ul>
-<p>Course:   </p>
+<p>Course:</p>
 <ul>
-<li>&quot;Designing Semantic Web Systems&quot;, Fall 2014  </li>
-<li>iSchool, Sungkyunkwan University   </li>
-<li>Prof. Thomas Baker   </li>
-<li>2014-11-25     </li>
+<li>&quot;Designing Semantic Web Systems&quot;, Fall 2014 </li>
+<li>iSchool, Sungkyunkwan University  </li>
+<li>Prof. Thomas Baker  </li>
+<li>2014-11-25    </li>
 </ul>
 <p>This presentation describes a hypothetical application to demonstrate how Linked Data -- data expressed in RDF, a language based on globally unique Web identifiers and a simple statement structure -- can be integrated from multiple different sources and queried as a whole.</p>
 <p>The presentation has been prepared by a group of students as their term project for an undergraduate course at the Sungkyunkwan University Department of Library and Information Science.</p>
@@ -1773,11 +1773,11 @@ div.output_prompt {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="1-data-shapes">1. Data Shapes</h3>
-<p>Our group has data about three things related to overfishing in the Pacific Ocean:    </p>
+<p>Our group has data about three things related to overfishing in the Pacific Ocean:</p>
 <ul>
-<li>&quot;organizations&quot;, with data both about non-governmental organizations devoted to the problem of overfishing, and about commercial fishing companies.   </li>
-<li>&quot;maps&quot;, showing...   </li>
-<li>&quot;journal articles&quot;, which discuss...   </li>
+<li>&quot;organizations&quot;, with data both about non-governmental organizations devoted to the problem of overfishing, and about commercial fishing companies.</li>
+<li>&quot;maps&quot;, showing...</li>
+<li>&quot;journal articles&quot;, which discuss...</li>
 </ul>
 </div>
 </div>
