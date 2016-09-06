@@ -1,1 +1,1 @@
-![logo](logo.png) - inline image
+# ![logo](logo.png) Plain Semantics
